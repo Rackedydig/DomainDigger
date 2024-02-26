@@ -7,16 +7,22 @@ Prerequisites
 
 Make sure you have installed the following Python packages:
 
+```
     pandas
     socket
     os
     requests
     python-dotenv
     argparse
+```
 
 You can install above packages using pip:
 
-pip install pandas python-dotenv argparse requests
+```
+pip install -r requirements.txt
+```
+
+Or install a virtual python environment by running the 'installer.bat' script on Windows machines.
 
 # Getting Started
 
