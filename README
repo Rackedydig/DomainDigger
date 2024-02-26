@@ -1,0 +1,12 @@
+-- BASIC FUNCTIONALITY -- 
+
+Returns domains that resolve to the IPs
+
+Calculates a confidence score based on how many domains are hosted on the IP
+
+-- VIRUSTOTAL INTEGRATION (NEEDS API KEY) --
+
+Dump additional IPs in new column
+
+Shows boolean if the IP or domains return as malicious.
+

@@ -1,0 +1,8 @@
+IPs,domain,passive_resolution,total_score,last_resolved,domain_resolution_count,domain_hits,high_res_count_score,recent_resolution_score,passive_resolution_score,malicious_hits_score
+100.7.3.45,static-100-7-3-45.rcmdva.fios.verizon.net,,1,,0,0,0,0,0,0
+1.122.234.70,cpe-1-122-234-70.bp1w-r-961.wel.wa.bigpond.net.au,ausec.net,3,2017-06-23 00:00:00,1,1,0,0,1,1
+1.122.64.110,cpe-1-122-64-110.bpe6-r-961.pie.wa.bigpond.net.au,040409680.duckdns.org,2,2017-01-16 00:00:00,1,0,0,0,1,0
+100.2.202.125,pool-100-2-202-125.nycmny.fios.verizon.net,,1,,0,0,0,0,0,0
+100.25.185.145,ec2-100-25-185-145.compute-1.amazonaws.com,i2support-stg1.services.adobe.com,5,2022-01-24 06:50:10,4,0,3,0,1,0
+100.25.217.29,ec2-100-25-217-29.compute-1.amazonaws.com,student1.e6e0.rhdemo.io,2,2019-07-04 06:43:06,1,0,0,0,1,0
+100.3.129.148,,,1,,0,0,0,0,0,0
