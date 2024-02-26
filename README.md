@@ -26,7 +26,7 @@ Or install a virtual python environment by running the 'installer.bat' script on
 
 # Getting Started
 
-To use DomainDigger, make sure you have a CSV file with a list of the IP addresses.
+To use DomainDigger, make sure you have a CSV file with a list of the IP addresses. The column should be called "IPs".
 
 You should also have an API key from VirusTotal to fetch the passive DNS replication data, and include it in a .env file in the same directory as your Python script. The key-value pair in .env should look like this:
 

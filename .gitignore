@@ -6,3 +6,6 @@ DomainDigger/
 
 # ignore .env file
 .env
+
+# ignore the .gitignore file
+.gitignore
